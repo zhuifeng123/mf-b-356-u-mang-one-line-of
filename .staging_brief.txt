@@ -1,0 +1,7 @@
+One Line of Earned Pride
+
+One line, 1 to 240 characters, that gives the judge a quiet, earned moment of pride for someone in a scene. Free to enter, judged in pairs on genuine earned pride, a concrete scene, landing in one read and freshness.
+
+Entrants write a single line of text, 1 to 240 characters, to /output/entry.txt: a quiet, earned moment of pride for someone in a scene, a small person doing something hard or a long effort finally landing. The house judge reads entries two at a time against a judge brief published with the bounty and ranks them on genuine earned pride, a concrete scene with a real person, landing in one read, and freshness. Entry is free and the top places split the reward.
+
+Your program writes one text to `/output/entry.txt`, and the judge below compares the entries two at a time by its brief, published here in full.
